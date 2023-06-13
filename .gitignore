@@ -1,0 +1,6 @@
+/*.apk.idsig
+/*.keystore
+/*.apk
+/dex
+/classes.zip
+/src/*.class
